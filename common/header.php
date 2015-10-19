@@ -6,7 +6,7 @@
 			<span class="title">Neri Lemus</span>
 			<br>
 			<?php if( $page=="blog.php" ) : ?>
-					<span class="title">The cave of thoughts</span>
+					<span class="title">It's not all binary - By Neri</span>
 			<?php endif; ?>
 		</h1>
 		</div>
@@ -27,6 +27,7 @@
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
+						<li><a href="projects.php">Projects</a></li>
 						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
 							<ul class="dropdown-menu">
