@@ -123,3 +123,10 @@
 		</div> <!-- /section -->
 	</div>	<!-- /container -->
 </main>
+
+<footer id="footer">
+	<?php
+		$page = "index.php";
+		include 'common/footer.php'
+	?>
+</footer>
