@@ -51,10 +51,22 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.</p>
-				<p><img src="assets/images/mac.jpg" alt="" class="" width="100%" ></p>
-				<h3>Necessitatibus</h3>
-				<p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</p>
+				<p>Hi there! My name is Neri Lemus, I am a graduate from the University of California, Riverside with a BS in Computer Engineering. 
+				My concentrations are in software development, mainly back-end work. I also like to dabble with Mobile Apps. I also like to do some electrical/circuit work on the side.
+				I have a passion for software development and really enjoy learning about new software products and technologies. 
+				I enjoy exploring problems and finding solutions that best suit and satisfy the customer and their needs.</p>
+				<!-- <p><img src="assets/images/mac.jpg" alt="" class="" width="100%" ></p> -->
+				<h3>Work Experience</h3>
+				<p><b>Zodiac Aerospace -- </b><i>Software Engineer | April 2015 - Present</i>
+				<ul style="list-style-type:circle">
+				  <li>Primarily wrote back-end code in C++ to manage a wireless streaming entertainment system aboard commercial aircraft.</li>
+				  <li>Wrote high-level designs and documentation for new software components.</li>
+				  <li>Wrote customer-facing GUI code in QML as well supporting backend code in C++.</li>
+				  <li>Worked as part of a small team of developers requiring minimal supervision from management.</li>
+				  <li>Used available resources and took initiative to seek clarification when faced with difficult/challenging problems.</li>
+				  <li>Supervised the acquisition, testing and release of customer-facing mobile apps from a 3rd party developer.</li>
+				</ul>
+				</p>
 				<h3>Fugit, laboriosam</h3>
 				<p>Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?</p>
 			</article>
