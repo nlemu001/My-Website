@@ -15,10 +15,11 @@
 				<h3 class="widget-title">Follow me</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
-						<a href=""><i class="fa fa-twitter fa-2"></i></a>
-						<a href=""><i class="fa fa-dribbble fa-2"></i></a>
-						<a href=""><i class="fa fa-github fa-2"></i></a>
-						<a href=""><i class="fa fa-facebook fa-2"></i></a>
+						<a href="https://twitter.com/just_neri"><i class="fa fa-twitter fa-2"></i></a>
+						<a href="https://instagram.com/nerbear1/"><i class="fa fa-instagram fa-2"></i></a>
+						<a href="https://github.com/nlemu001"><i class="fa fa-github fa-2"></i></a>
+						<a href="https://www.facebook.com/neri.lemus"><i class="fa fa-facebook fa-2"></i></a>
+						<a href="https://www.linkedin.com/in/nerilemus"><i class="fa fa-linkedin fa-2"></i></a>
 					</p>
 				</div>
 			</div>
